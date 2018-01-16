@@ -1,0 +1,2 @@
+# De lo invisible a lo accesible. 
+La accesibilidad de una aplicación web no es algo trivial. En esta charla os enseñaremos los conceptos y técnicas más básicos para que nuestras aplicaciones sean accesibles para cualquier usuario. Vamos a ver cómo funcionan las herramientas de apoyo y cómo comunicarnos con ellas, mejorando de forma incremental una aplicación con 0 accesibilidad hasta llegar a una totalmente accesible.
